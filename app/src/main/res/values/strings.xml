@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meal-Q-Way</string>
+    <!--Main-->
+    <string name="daftar_kantin">Daftar Kantin</string>
+    <string name="favorites">Favorites</string>
+    <string name="faq">FAQ</string>
+    <string name="help">Help</string>
+
+    <!--Kantin-->
+    <string name="kantin1">Kantin #1</string>
+    <string name="kantin2">Kantin #2</string>
+    <string name="kantin3">Kantin #3</string>
+    <string name="kantin4">Kantin #4</string>
+</resources>
